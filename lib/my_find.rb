@@ -7,5 +7,5 @@ while i < collection.length
       return collection[i]
     end
   i += 1
-end
+  end
 end
